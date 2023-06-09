@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: simple-http-server
-        image: ghcr.io/denverdevday-gitops/simple-http-server:5190706044
+        image: ghcr.io/denverdevday-gitops/simple-http-server:5226514012
         ports:
         - containerPort: 8080
